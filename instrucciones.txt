@@ -1,0 +1,4 @@
+Ir a la terminal a la terminal VS Code
+Ir al directorio donde esta el Archivo que estamos escribiendo. Ejem: ‘xx.cp’
+Escribo ‘g++ xx.cpp -o a.exe’ (Esto crea el ejecutable)
+Para Ejecutar escribimos ‘./a.out’
